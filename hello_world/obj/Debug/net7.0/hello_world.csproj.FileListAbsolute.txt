@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/bin/Debug/net7.0/hello_world
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/bin/Debug/net7.0/hello_world.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/bin/Debug/net7.0/hello_world.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/bin/Debug/net7.0/hello_world.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/bin/Debug/net7.0/hello_world.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/hello_world.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/hello_world.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/hello_world.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/hello_world.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/hello_world.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/refint/hello_world.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/hello_world.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/hello_world.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/obj/Debug/net7.0/ref/hello_world.dll
