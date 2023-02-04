@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yv9fer92spnFDUdX//D5ZpQdScl2I3RMFsOU0Un6+wI0fbxRS//zfQb/IbuBFaR3lHPU1+/Npo2X/EwfnaRVOg==",
+  "success": true,
+  "projectFilePath": "/media/ppp_hdd/csharp_practice/dotnet_101/hello_world/hello_world.csproj",
+  "expectedPackageFiles": [
+    "/home/ppp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
