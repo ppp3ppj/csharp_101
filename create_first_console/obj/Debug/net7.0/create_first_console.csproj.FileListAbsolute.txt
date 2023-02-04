@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/bin/Debug/net7.0/create_first_console
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/bin/Debug/net7.0/create_first_console.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/bin/Debug/net7.0/create_first_console.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/bin/Debug/net7.0/create_first_console.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/bin/Debug/net7.0/create_first_console.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/create_first_console.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/create_first_console.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/create_first_console.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/create_first_console.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/create_first_console.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/create_first_console.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/refint/create_first_console.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/create_first_console.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/create_first_console.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/create_first_console/obj/Debug/net7.0/ref/create_first_console.dll
