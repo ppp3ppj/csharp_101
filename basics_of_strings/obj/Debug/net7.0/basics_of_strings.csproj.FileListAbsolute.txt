@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/basics_of_strings.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/basics_of_strings.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/basics_of_strings.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/basics_of_strings.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/basics_of_strings.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/bin/Debug/net7.0/basics_of_strings
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/bin/Debug/net7.0/basics_of_strings.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/bin/Debug/net7.0/basics_of_strings.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/bin/Debug/net7.0/basics_of_strings.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/bin/Debug/net7.0/basics_of_strings.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/basics_of_strings.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/refint/basics_of_strings.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/basics_of_strings.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/basics_of_strings.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/basics_of_strings/obj/Debug/net7.0/ref/basics_of_strings.dll
