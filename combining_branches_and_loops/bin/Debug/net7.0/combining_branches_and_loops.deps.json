@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "combining_branches_and_loops/1.0.0": {
+        "runtime": {
+          "combining_branches_and_loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "combining_branches_and_loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

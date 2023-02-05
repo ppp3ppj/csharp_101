@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/combining_branches_and_loops.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/combining_branches_and_loops.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/combining_branches_and_loops.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/combining_branches_and_loops.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/combining_branches_and_loops.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/bin/Debug/net7.0/combining_branches_and_loops
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/bin/Debug/net7.0/combining_branches_and_loops.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/bin/Debug/net7.0/combining_branches_and_loops.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/bin/Debug/net7.0/combining_branches_and_loops.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/bin/Debug/net7.0/combining_branches_and_loops.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/combining_branches_and_loops.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/refint/combining_branches_and_loops.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/combining_branches_and_loops.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/combining_branches_and_loops.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/combining_branches_and_loops/obj/Debug/net7.0/ref/combining_branches_and_loops.dll
