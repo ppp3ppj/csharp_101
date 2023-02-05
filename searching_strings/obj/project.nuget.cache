@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHSNO+9ZRaH9TdL/leluv58zJ63YVGcUXQCnaacdGQNDoZkeRT7b/lYOKUa7o3JrymoVcfynkqYHhE/m2bEnlQ==",
+  "success": true,
+  "projectFilePath": "/media/ppp_hdd/csharp_practice/dotnet_101/searching_strings/searching_strings.csproj",
+  "expectedPackageFiles": [
+    "/home/ppp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
