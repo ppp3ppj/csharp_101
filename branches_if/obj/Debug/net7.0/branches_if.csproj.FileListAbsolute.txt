@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/bin/Debug/net7.0/branches_if
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/bin/Debug/net7.0/branches_if.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/bin/Debug/net7.0/branches_if.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/bin/Debug/net7.0/branches_if.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/bin/Debug/net7.0/branches_if.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/branches_if.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/branches_if.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/branches_if.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/branches_if.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/branches_if.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/branches_if.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/refint/branches_if.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/branches_if.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/branches_if.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/obj/Debug/net7.0/ref/branches_if.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1lsXhcQe1u81Pz+9JORzYm2vU8AgWX3uOGGeiT2ZiKhtZKVtdJQy61gP/SF/BxTq0TheLF68tqHU8m6/FkK6dQ==",
+  "success": true,
+  "projectFilePath": "/media/ppp_hdd/csharp_practice/dotnet_101/branches_if/branches_if.csproj",
+  "expectedPackageFiles": [
+    "/home/ppp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
