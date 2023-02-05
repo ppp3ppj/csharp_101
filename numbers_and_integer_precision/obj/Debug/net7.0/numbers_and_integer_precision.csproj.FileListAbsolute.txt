@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/bin/Debug/net7.0/numbers_and_integer_precision
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/bin/Debug/net7.0/numbers_and_integer_precision.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/bin/Debug/net7.0/numbers_and_integer_precision.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/bin/Debug/net7.0/numbers_and_integer_precision.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/bin/Debug/net7.0/numbers_and_integer_precision.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/numbers_and_integer_precision.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/numbers_and_integer_precision.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/numbers_and_integer_precision.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/numbers_and_integer_precision.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/numbers_and_integer_precision.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/numbers_and_integer_precision.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/refint/numbers_and_integer_precision.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/numbers_and_integer_precision.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/numbers_and_integer_precision.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/obj/Debug/net7.0/ref/numbers_and_integer_precision.dll

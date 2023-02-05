@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZR/yfRDU1h8CMHdGoyT7HRrG30oR3E+6yr/gJnI1lP6D6psRovDC+OYtJMSM8uWlVuqKSwb1UNzzQuCohkO7Pw==",
+  "success": true,
+  "projectFilePath": "/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_precision/numbers_and_integer_precision.csproj",
+  "expectedPackageFiles": [
+    "/home/ppp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
