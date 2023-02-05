@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9j/AdRhghvy96lBjZ+XBnrp50IMlwakIW6CfYqn7wG6NpgkLI/HXBB+1bz79tTUVA5yM0pf/4ya7WH3Tn0+kGQ==",
+  "success": true,
+  "projectFilePath": "/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_decimals/numbers_and_decimals.csproj",
+  "expectedPackageFiles": [
+    "/home/ppp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
