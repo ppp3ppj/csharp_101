@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/bin/Debug/net7.0/numbers_and_integer_math
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/bin/Debug/net7.0/numbers_and_integer_math.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/bin/Debug/net7.0/numbers_and_integer_math.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/bin/Debug/net7.0/numbers_and_integer_math.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/bin/Debug/net7.0/numbers_and_integer_math.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/numbers_and_integer_math.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/numbers_and_integer_math.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/numbers_and_integer_math.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/numbers_and_integer_math.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/numbers_and_integer_math.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/numbers_and_integer_math.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/refint/numbers_and_integer_math.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/numbers_and_integer_math.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/numbers_and_integer_math.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/numbers_and_integer_math/obj/Debug/net7.0/ref/numbers_and_integer_math.dll
