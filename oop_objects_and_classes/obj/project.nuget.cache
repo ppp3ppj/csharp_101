@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "79aSvFiRXVWpzfxhe7PaFpwu/rMi5heF/HEfh+GNd7OXoqCC2i6Jmgo7lYqQF246ks99KxH4HoUOPZN/vbFd3A==",
+  "success": true,
+  "projectFilePath": "/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/oop_objects_and_classes.csproj",
+  "expectedPackageFiles": [
+    "/home/ppp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

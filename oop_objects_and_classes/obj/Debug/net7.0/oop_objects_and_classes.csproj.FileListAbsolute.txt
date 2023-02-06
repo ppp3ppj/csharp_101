@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/bin/Debug/net7.0/oop_objects_and_classes
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/bin/Debug/net7.0/oop_objects_and_classes.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/bin/Debug/net7.0/oop_objects_and_classes.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/bin/Debug/net7.0/oop_objects_and_classes.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/bin/Debug/net7.0/oop_objects_and_classes.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/oop_objects_and_classes.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/oop_objects_and_classes.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/oop_objects_and_classes.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/oop_objects_and_classes.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/oop_objects_and_classes.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/oop_objects_and_classes.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/refint/oop_objects_and_classes.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/oop_objects_and_classes.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/oop_objects_and_classes.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/oop_objects_and_classes/obj/Debug/net7.0/ref/oop_objects_and_classes.dll
