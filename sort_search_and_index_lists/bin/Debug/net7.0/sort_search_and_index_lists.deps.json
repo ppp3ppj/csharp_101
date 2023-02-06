@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "sort_search_and_index_lists/1.0.0": {
+        "runtime": {
+          "sort_search_and_index_lists.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sort_search_and_index_lists/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

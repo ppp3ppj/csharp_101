@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/bin/Debug/net7.0/sort_search_and_index_lists
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/bin/Debug/net7.0/sort_search_and_index_lists.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/bin/Debug/net7.0/sort_search_and_index_lists.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/bin/Debug/net7.0/sort_search_and_index_lists.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/bin/Debug/net7.0/sort_search_and_index_lists.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/sort_search_and_index_lists.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/sort_search_and_index_lists.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/sort_search_and_index_lists.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/sort_search_and_index_lists.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/sort_search_and_index_lists.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/sort_search_and_index_lists.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/refint/sort_search_and_index_lists.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/sort_search_and_index_lists.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/sort_search_and_index_lists.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/sort_search_and_index_lists/obj/Debug/net7.0/ref/sort_search_and_index_lists.dll
