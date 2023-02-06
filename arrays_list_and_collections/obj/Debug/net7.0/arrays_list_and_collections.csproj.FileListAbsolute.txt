@@ -1,0 +1,15 @@
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/bin/Debug/net7.0/arrays_list_and_collections
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/bin/Debug/net7.0/arrays_list_and_collections.deps.json
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/bin/Debug/net7.0/arrays_list_and_collections.runtimeconfig.json
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/bin/Debug/net7.0/arrays_list_and_collections.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/bin/Debug/net7.0/arrays_list_and_collections.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/arrays_list_and_collections.csproj.AssemblyReference.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/arrays_list_and_collections.GeneratedMSBuildEditorConfig.editorconfig
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/arrays_list_and_collections.AssemblyInfoInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/arrays_list_and_collections.AssemblyInfo.cs
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/arrays_list_and_collections.csproj.CoreCompileInputs.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/arrays_list_and_collections.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/refint/arrays_list_and_collections.dll
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/arrays_list_and_collections.pdb
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/arrays_list_and_collections.genruntimeconfig.cache
+/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/obj/Debug/net7.0/ref/arrays_list_and_collections.dll

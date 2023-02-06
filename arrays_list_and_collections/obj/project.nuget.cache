@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ci/T3kxb74hvtHxOSpafzjcd7qtEp/yePXnhIBZLAXUnIzaj4rhmd8u/llqTNxu2oY35dV2M1zkl6grN1ErXkA==",
+  "success": true,
+  "projectFilePath": "/media/ppp_hdd/csharp_practice/dotnet_101/arrays_list_and_collections/arrays_list_and_collections.csproj",
+  "expectedPackageFiles": [
+    "/home/ppp/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
