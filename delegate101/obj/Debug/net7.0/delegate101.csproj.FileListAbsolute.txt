@@ -1,0 +1,15 @@
+D:\Personal\csharp101\csharp_101\delegate101\bin\Debug\net7.0\delegate101.exe
+D:\Personal\csharp101\csharp_101\delegate101\bin\Debug\net7.0\delegate101.deps.json
+D:\Personal\csharp101\csharp_101\delegate101\bin\Debug\net7.0\delegate101.runtimeconfig.json
+D:\Personal\csharp101\csharp_101\delegate101\bin\Debug\net7.0\delegate101.dll
+D:\Personal\csharp101\csharp_101\delegate101\bin\Debug\net7.0\delegate101.pdb
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\delegate101.csproj.AssemblyReference.cache
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\delegate101.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\delegate101.AssemblyInfoInputs.cache
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\delegate101.AssemblyInfo.cs
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\delegate101.csproj.CoreCompileInputs.cache
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\delegate101.dll
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\refint\delegate101.dll
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\delegate101.pdb
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\delegate101.genruntimeconfig.cache
+D:\Personal\csharp101\csharp_101\delegate101\obj\Debug\net7.0\ref\delegate101.dll
