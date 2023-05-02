@@ -1,0 +1,15 @@
+D:\Personal\csharp101\csharp_101\event101\bin\Debug\net7.0\event101.exe
+D:\Personal\csharp101\csharp_101\event101\bin\Debug\net7.0\event101.deps.json
+D:\Personal\csharp101\csharp_101\event101\bin\Debug\net7.0\event101.runtimeconfig.json
+D:\Personal\csharp101\csharp_101\event101\bin\Debug\net7.0\event101.dll
+D:\Personal\csharp101\csharp_101\event101\bin\Debug\net7.0\event101.pdb
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\event101.csproj.AssemblyReference.cache
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\event101.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\event101.AssemblyInfoInputs.cache
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\event101.AssemblyInfo.cs
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\event101.csproj.CoreCompileInputs.cache
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\event101.dll
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\refint\event101.dll
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\event101.pdb
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\event101.genruntimeconfig.cache
+D:\Personal\csharp101\csharp_101\event101\obj\Debug\net7.0\ref\event101.dll
