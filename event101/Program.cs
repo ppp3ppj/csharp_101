@@ -1,17 +1,21 @@
 ﻿class Program { 
-    delegate void OnChangeHandler(object sender, EventArgs e); 
+    delegate void OnChangeHandler(object sender, TextBoxArguments e); 
     class TextBox
     {
         public event OnChangeHandler ChangeEvent;
         public string Value;
-        public void OnChange()
+        public void OnChange(TextBoxArguments e)
         {
             if(ChangeEvent != null)
             {
-                ChangeEvent(this, EventArgs.Empty);
+                ChangeEvent(this, e);
             }
         }
-        
+    }
+
+    public class TextBoxArguments : EventArgs
+    {
+        public int Length;
     }
 
     static void Main(string[] args)
@@ -26,7 +30,9 @@
             if(str != current) 
             {
                 txt.Value = str;
-                txt.OnChange();
+                TextBoxArguments arg = new TextBoxArguments();
+                arg.Length = txt.Value.Length;
+                txt.OnChange(arg);
             }
             else
             {
@@ -37,8 +43,8 @@
         Console.WriteLine("End Loop");
     }
 
-    private static void txt_OnChangeEvent(object sender, EventArgs e)
+    private static void txt_OnChangeEvent(object sender, TextBoxArguments e)
     {
-        Console.WriteLine("Value is change to: {0}", ((TextBox)sender).Value);
+        Console.WriteLine("Value is change to: {0} and Length {1}", ((TextBox)sender).Value, e.Length);
     }
 }
